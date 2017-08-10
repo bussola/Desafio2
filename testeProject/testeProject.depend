@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502385741 source:c:\users\bussola\google drive\programacao\fish tank\teste\testeproject\main.c
+	<stdio.h>
+	<stdlib.h>
+

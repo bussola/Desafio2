@@ -1,0 +1,23 @@
+﻿# isso é um comentário, deve ser ignorado pelo programa
+
+#
+
+# Fichas
+
+# Cada ficha determina Força, Percepção, Resistência, Carisma, Inteligência, Agilidade e Sorte,
+
+# além dos nomes e descrições dos personagens.
+
+
+
+3,9,8,6,5,6,3,Praston Garvey,Minuteman
+
+4,6,5,8,4,7,6,Amata,Lone Wanderer
+
+4,6,5,9,5,5,6,Colonel Autumn,Smuggler
+
+8,6,8,2,3,7,6,Jericho,Infiltrator
+
+4,8,3,8,7,5,5,Moira Brown,Expert
+
+4,4,6,9,5,5,7,Three Dog,Radio Host
